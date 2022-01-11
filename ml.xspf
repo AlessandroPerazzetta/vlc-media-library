@@ -46,6 +46,13 @@
 				<vlc:id>5</vlc:id>
 			</extension>
 		</track>
+		<track>        
+			<location>http://stream.streamaudio.de:8000/happy-fm-2</location>        
+			<title>Happy FM</title>                                                                                                                 
+			<extension application="http://www.videolan.org/vlc/playlist/0">        
+				<vlc:id>6</vlc:id>        
+			</extension>        
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
