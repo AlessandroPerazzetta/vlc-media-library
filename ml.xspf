@@ -17,25 +17,10 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://hestia2.cdnstream.com/1459_128</location>
-			<title>PsyStation - ChillOut</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://hestia2.cdnstream.com:80/1456_128</location>
-			<title>PsyStation - Forest Psy Trance</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-			</extension>
-		</track>
-		<track>
 			<location>http://hestia2.cdnstream.com/1258_192</location>
 			<title>Smooth Jazz Planet</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
+				<vlc:id>2</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -43,14 +28,14 @@
 			<location>http://radio4.vip-radios.fm:8054/stream-64kAAC-BuddhaBeach_autodj</location>
 			<title>Vip-Radios.FM - Buddha Beach</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
+				<vlc:id>3</vlc:id>
 			</extension>
 		</track>
 		<track>        
 			<location>http://stream.streamaudio.de:8000/happy-fm-2</location>        
 			<title>Happy FM</title>                                                                                                                 
 			<extension application="http://www.videolan.org/vlc/playlist/0">        
-				<vlc:id>6</vlc:id>        
+				<vlc:id>4</vlc:id>        
 			</extension>        
 		</track>
 	</trackList>
@@ -60,6 +45,5 @@
 		<vlc:item tid="2"/>
 		<vlc:item tid="3"/>
 		<vlc:item tid="4"/>
-		<vlc:item tid="5"/>
 	</extension>
 </playlist>
