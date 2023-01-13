@@ -37,7 +37,14 @@
             <extension application="http://www.videolan.org/vlc/playlist/0">    
                 <vlc:id>4</vlc:id>    
             </extension>    
-        </track>    
+        </track>
+        <track>    
+            <location>http://185.238.128.191:8002/live</location>    
+            <title>Loungemain Jazz-Chill-Funk</title>    
+            <extension application="http://www.videolan.org/vlc/playlist/0">    
+                <vlc:id>5</vlc:id>    
+            </extension>    
+        </track>
     </trackList>    
     <extension application="http://www.videolan.org/vlc/playlist/0">    
         <vlc:item tid="0"/>    
@@ -45,5 +52,6 @@
         <vlc:item tid="2"/>    
         <vlc:item tid="3"/>    
         <vlc:item tid="4"/>    
+        <vlc:item tid="5"/>    
     </extension>    
 </playlist>
